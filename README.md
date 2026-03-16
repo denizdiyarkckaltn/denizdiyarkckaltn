@@ -24,4 +24,4 @@ I am a 2nd-year Computer Engineering student with a strong focus on backend syst
 * **Email:** denizdiyarkucukaltun@gmail.com
 
 ---
-*Generated with a touch of AI-Assisted Engineering 🚀*
+
