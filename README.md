@@ -1,4 +1,4 @@
-# Hi there, I'm Deniz Diyar Küçükaltun 👋
+# Hi there, I'm Deniz Diyar Küçükaltun 
 
 ### 🎓 Computer Engineering Student @ Ankara Medipol University
 I am a 2nd-year Computer Engineering student with a strong focus on backend systems, database architecture, and mobile development. I’m passionate about building efficient, scalable, and modern software solutions.
