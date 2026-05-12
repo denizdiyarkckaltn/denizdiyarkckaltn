@@ -6,7 +6,7 @@ I am a 2nd-year Computer Engineering student with a strong focus on backend syst
 ---
 
 ### 🛠 Technical Skills
-* **Languages:** SQL (PostgreSQL), C++, Java, Python
+* **Languages:** SQL (PostgreSQL), C, Java, Python
 * **Frameworks & Tools:** React Native, Git, GitHub, VS Code
 * **Specialties:** Database Design, Normalization, Query Optimization
 * **Hardware:** Developing & Performance testing on **Apple Silicon M4**
